@@ -1,16 +1,16 @@
 - layout: top-middle
   name: HIBEE
-  link: github.com/sproogen
+  link: hibee link
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Flask based App to Manage Market Making Bots.
   description: | # this will include new lines to allow paragraphs
     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
   
 - layout: top-middle
   name: Algo Box
-  link: github.com/sproogen
+  link: github.com/scalper
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Momentum Chasing Trading Bots on Binance Futures. 
   description: | # this will include new lines to allow paragraphs
     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
   
@@ -18,7 +18,7 @@
   name: LSTM
   link: github.com/sproogen
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    ML Model for Trading.
   description: | # this will include new lines to allow paragraphs
     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
   
