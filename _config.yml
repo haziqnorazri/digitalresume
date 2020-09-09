@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Israa S.D
-title: Quant Trader|Full Stack Developer
+title: Quant Trader | Full Stack Developer
 email: israasaifullah@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -25,8 +25,8 @@ linkedin_username: israaibnusaifullah
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   
+  
   HIGHLIGHTS: 
-    - <mark>AWS</mark> 
     - and <mark>Eating Pizza</mark>
     - and <mark>Eating Pizza</mark>
     - and <mark>Eating Pizza</mark>
