@@ -1,21 +1,29 @@
 - layout: top-middle
   name: HIBEE
-  link: hibee link
+  link: http://hibee/ml
   quote: >
-    Flask based App to Manage Market Making Bots.
+    Lite Application to Manage Market Making Bots.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  
+    - Build API connector to Binance Futures to enable trading functionality. 
+    - Develop fast websocket streamer to produce high integrity orderbook.
+    - Script multiple trading bots with multithreading support (multiple users and multiple configurations).
+    - Develop client side using MVC structure and Flask Framework.
+    - Manage mongoDB for client-server communication while sqlite for computation.
+    
 - layout: top-middle
   name: Algo Box
-  link: github.com/scalper
+  link: https://github.com/QuantMis/Algo-Box
   quote: >
-    Momentum Chasing Trading Bots on Binance Futures. 
+    Trading Automation: Momentum Chasing Strategy  
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  
+    - Trading Automation.
+    - Python - High Speed and low latency execution.
+    - Linux Server
+    - Rigorous backtesting.
+    - Statistical Method implemented.
+    
 - layout: top-middle
-  name: LSTM
+  name: ML Modelling
   link: github.com/sproogen
   quote: >
     ML Model for Trading.
