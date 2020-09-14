@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Israa S.D
-title: Quant Trader | Full Stack Developer
+title: Quant Trader | Python Developer
 email: israasaifullah@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -24,13 +24,13 @@ linkedin_username: israaibnusaifullah
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  
-  
-  HIGHLIGHTS: 
-    - and <mark>Eating Pizza</mark>
-    - and <mark>Eating Pizza</mark>
-    - and <mark>Eating Pizza</mark>
-    - and <mark>Eating Pizza</mark>
+  UM physics graduate Solid Mathematics Skills, knowledge of fintech crypto & financial markets, Working Experience - working in small smartup to corporate, Experienced Programmer with Solid Development Portfolio.
+  encompassing automation scripting, web development and machine learning project.
+  Skills Highlights: 
+    - Python, Cython Backend Scripting and Web Development via Flask Framework. 
+    - Mongo Database and Sqlite 
+    - pureJS, Jquery, HTML and CSS for Frontend Design and UI Functionalities
+    - Python Keras, Scipy development of AI model via LSTM
    
 # More Section
 # more_title: A Little More About Me
