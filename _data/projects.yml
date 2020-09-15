@@ -2,13 +2,13 @@
   name: HIBEE
   link: http://hibee/ml
   quote: >
-    Lite Application to Manage Market Making Bots.
+    Lite Web Application to Manage Market Making Bots.
   description: | # this will include new lines to allow paragraphs
-    - Build API connector to Binance Futures to enable trading functionality. 
-    - Develop fast websocket streamer to produce high integrity orderbook.
-    - Script multiple trading bots with multithreading support (multiple users and multiple configurations).
-    - Develop client side using MVC structure and Flask Framework.
-    - Manage mongoDB for client-server communication while sqlite for computation.
+    - Build Binance Futures API connector to enable trading functionality. 
+    - Develop fast websocket streamer to view realtime market data.
+    - Script multiple trading bots with multithreading support.
+    - Develop client side Web Application using MVC structure & Flask Framework.
+    - Mongo Database  for client-server communication while sqlite for computation.
     
 - layout: top-middle
   name: Algo Box
@@ -16,17 +16,17 @@
   quote: >
     Trading Automation: Momentum Chasing Strategy  
   description: | # this will include new lines to allow paragraphs
-    - Trading Automation.
-    - Python - High Speed and low latency execution.
-    - Linux Server
-    - Rigorous backtesting.
-    - Statistical Method implemented.
+    - Develop Python based software to automate buying and selling of cryptocurrencies. 
+    - Deploy the software in Linux Server for production mode. 
+    - Implement statistic based strategy using z-score calculation of price change velocity.
+    - Rigorous Back Testing and Forward Testing to verify the strategy probabilities to be profitable
     
 - layout: top-middle
-  name: ML Modelling
+  name: LSTM AI Model
   link: github.com/sproogen
   quote: >
-    ML Model for Trading.
+    ML Model for Cryptocurrency Modelling.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  
+    - Model with multiple feed 
+    - Predict the price with high accuracy model 
+    - Data Engineering skills
