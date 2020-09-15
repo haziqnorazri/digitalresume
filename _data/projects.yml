@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: HIBEE
   link: http://hibee/ml
   quote: >
@@ -10,7 +10,7 @@
     - Develop client side Web Application using MVC structure with Flask, .
     - Mongo Database  for client-server communication while sqlite for computation.
     
-- layout: top-middle
+- layout: left
   name: Algo Box
   link: https://github.com/QuantMis/Algo-Box
   quote: >
@@ -21,7 +21,7 @@
     - Implement statistic based strategy using z-score calculation of price change velocity.
     - Rigorous Back Testing and Forward Testing to verify the strategy probabilities to be profitable
     
-- layout: top-middle
+- layout: left
   name: Neural Network Crypto Predictor
   link: https://github.com/QuantMis/cryptoRNN
   quote: >
