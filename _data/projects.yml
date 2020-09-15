@@ -16,7 +16,7 @@
   
   description: | # this will include new lines to allow paragraphs
     Trading Automation   
-    - Develop Python based software to automate buying and selling of cryptocurrencies. 
+    Develop Python based software to automate buying and selling of cryptocurrencies. 
     - Deploy the software in Linux Server for production mode. 
     - Implement statistic based strategy using z-score calculation of price change velocity.
     - Rigorous Back Testing and Forward Testing to verify the strategy probabilities to be profitable
