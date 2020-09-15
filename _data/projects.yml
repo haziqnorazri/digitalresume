@@ -7,7 +7,7 @@
     - Build Binance Futures API connector to enable trading functionality. 
     - Develop fast websocket streamer to view realtime market data.
     - Script multiple trading bots with multithreading support.
-    - Develop client side Web Application using MVC structure & Flask Framework.
+    - Develop client side Web Application using MVC structure with Flask, .
     - Mongo Database  for client-server communication while sqlite for computation.
     
 - layout: top-middle
@@ -22,11 +22,12 @@
     - Rigorous Back Testing and Forward Testing to verify the strategy probabilities to be profitable
     
 - layout: top-middle
-  name: LSTM AI Model
-  link: github.com/sproogen
+  name: Neural Network Crypto Predictor
+  link: https://github.com/QuantMis/cryptoRNN
   quote: >
     ML Model for Cryptocurrency Modelling.
   description: | # this will include new lines to allow paragraphs
-    - Model with multiple feed 
-    - Predict the price with high accuracy model 
-    - Data Engineering skills
+    - Utilize Python Keras to develop LSTMs Models and Scipy for data preprocessing. 
+    - Predict the price with high accuracy model with 0.86 accuracy from test data.
+    - Automate data engineering processes such as data extraction, cleansing, shaping and visualisation.
+    - Visualise modelling process and results using plotly with live update features for production mode.
