@@ -1,6 +1,6 @@
 - layout: left
   name: HIBEE
-  link: http://hibee/ml
+  link: http://hibee.ml
   
   description: | # this will include new lines to allow paragraphs
     Lite Web Application to Manage Market Making Bots
