@@ -1,9 +1,9 @@
 - layout: left
   name: HIBEE
   link: http://hibee/ml
-  quote: >
-    Lite Web Application to Manage Market Making Bots.
+  
   description: | # this will include new lines to allow paragraphs
+  Lite Web Application to Manage Market Making Bots
     - Build Binance Futures API connector to enable trading functionality. 
     - Develop fast websocket streamer to view realtime market data.
     - Script multiple trading bots with multithreading support.
@@ -13,9 +13,9 @@
 - layout: left
   name: Algo Box
   link: https://github.com/QuantMis/Algo-Box
-  quote: >
-    Trading Automation: Momentum Chasing Strategy  
+  
   description: | # this will include new lines to allow paragraphs
+  Trading Automation   
     - Develop Python based software to automate buying and selling of cryptocurrencies. 
     - Deploy the software in Linux Server for production mode. 
     - Implement statistic based strategy using z-score calculation of price change velocity.
@@ -24,9 +24,10 @@
 - layout: left
   name: Neural Network Crypto Predictor
   link: https://github.com/QuantMis/cryptoRNN
-  quote: >
-    ML Model for Cryptocurrency Modelling.
+
+    
   description: | # this will include new lines to allow paragraphs
+  ML Model for Cryptocurrency Modelling
     - Utilize Python Keras to develop LSTMs Models and Scipy for data preprocessing. 
     - Predict the price with high accuracy model with 0.86 accuracy from test data.
     - Automate data engineering processes such as data extraction, cleansing, shaping and visualisation.
