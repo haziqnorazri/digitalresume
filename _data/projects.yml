@@ -3,12 +3,12 @@
   link: http://hibee.ml
   
   description: | # this will include new lines to allow paragraphs
-    Lite Web Application to Manage Market Making Bots
+    Lite Web Application for Market Making Operation
     - Build Binance Futures API connector to enable trading functionality. 
     - Develop fast websocket streamer to view realtime market data.
-    - Script multiple trading bots with multithreading support.
-    - Develop client side Web Application using MVC structure with Flask, .
-    - Mongo Database  for client-server communication while sqlite for computation.
+    - Script built-in trading bots with multithreading support.
+    - Develop client side web app using MVC structure with flask, nginx, uwsgi.
+    - Mongo Database for client-server communication while sqlite for computation.
     
 - layout: left
   name: Algo Box
@@ -19,7 +19,7 @@
     - Develop Python based software to automate buying and selling of cryptocurrencies. 
     - Deploy the software in Linux Server for production mode. 
     - Implement statistic based strategy using z-score calculation of price change velocity.
-    - Rigorous Back Testing and Forward Testing to verify the strategy probabilities to be profitable
+    - Rigorous back-testing and forward-testing to verify the strategy profitability.
     
 - layout: left
   name: Neural Network Crypto
@@ -29,6 +29,6 @@
   description: | # this will include new lines to allow paragraphs
     ML Model for Cryptocurrency Modelling
     - Utilize Python Keras to develop LSTMs Models and Scipy for data preprocessing. 
-    - Predict the price with high accuracy model with 0.86 accuracy from test data.
+    - Forecast future prices for BTC and ETH using LSTMs Model.
     - Automate data engineering processes such as data extraction, cleansing, shaping and visualisation.
     - Visualise modelling process and results using plotly with live update features for production mode.
