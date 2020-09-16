@@ -4,11 +4,10 @@
   job_title: Python Developer and QA (remote)
   dates: March 2020 - August 2020
   description: | # this will include new lines to allow paragraphs
-    - Develop backend service cython and python MONGODB LINUX
-    - QA and cross check on software
-    - Responsible Operate LP bot for market making operation
-    - Involve in strategy development and loss mitigation
-    - Manage Client inventory
+    - Develop multiple low latency trading algorithms using python/cython.
+    - Build infrastructure to enable trading and data streaming function via API and Websockets.
+    - Responsible to manage liquidiy provision bot for market making operation.
+    - Involve in Initial Coin Offering (ICO) and help the team to attract significant buyer.  
     
 - layout: left
   company: Kenanga Investment Bank Bhd
@@ -16,11 +15,10 @@
   job_title: Quant Trainee
   dates: Jan 2020 - May 2020
   description: | # this will include new lines to allow paragraphs
-    - Develop backend service cython and python MONGODB LINUX
-    - QA and cross check on software
-    - Responsible Operate LP bot for market making operation
-    - Involve in strategy development and loss mitigation
-    - Manage Client inventory
+    - Work side to side with Kenanga Top Traders.
+    - Assist daytraders with technical analysis and daily trading plan.
+    - Involve in Alpha Mining by doing strategy development and rigorous backtesting.  
+    - Analyse Malaysia Stocks Data and perform price-volume modelling.
     
 - layout: left
   company: BIMB Securities Sdn Bhd
@@ -28,9 +26,8 @@
   job_title: Research Intern
   dates: July 2019 - October 2019
   description: | # this will include new lines to allow paragraphs
-    - Develop backend service cython and python MONGODB LINUX
-    - QA and cross check on software
-    - Responsible Operate LP bot for market making operation
-    - Involve in strategy development and loss mitigation
-    - Manage Client inventory
+    - Involve in completion of MTAG IPO report.
+    - Develop various web scraper for data collection.    
+    - Develop a python script for Google Map data scraper to collect gas station data.
+    - Develop financial model (PE and DCF) to forecast stocks future target price. 
     
