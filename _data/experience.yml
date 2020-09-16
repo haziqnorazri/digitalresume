@@ -4,10 +4,10 @@
   job_title: Python Developer and QA (remote)
   dates: March 2020 - August 2020
   description: | # this will include new lines to allow paragraphs
-    - Develop multiple low latency trading algorithms using python/cython.
-    - Build infrastructure to enable trading and data streaming function via API and Websockets.
+    - Develop low latency trading algorithms using python & cython.
+    - Build exchange interface to enable trading and data streaming function via API and Websockets.
     - Responsible to manage liquidiy provision bot for market making operation.
-    - Involve in Initial Coin Offering (ICO) and help the team to attract significant buyer.  
+    - Involve in Initial Coin Offering (ICO) and develop strategies to maximise trading profit.  
     
 - layout: left
   company: Kenanga Investment Bank Bhd
@@ -15,7 +15,7 @@
   job_title: Quant Trainee
   dates: Jan 2020 - May 2020
   description: | # this will include new lines to allow paragraphs
-    - Work side to side with Kenanga Top Traders.
+    - Work side to side with Kenanga top traders.
     - Assist daytraders with technical analysis and daily trading plan.
     - Involve in Alpha Mining by doing strategy development and rigorous backtesting.  
     - Analyse Malaysia Stocks Data and perform price-volume modelling.
@@ -28,6 +28,6 @@
   description: | # this will include new lines to allow paragraphs
     - Involve in completion of MTAG IPO report.
     - Develop various web scraper for data collection.    
-    - Develop a python script for Google Map data scraper to collect gas station data.
+    - Develop a python script for Google Map scraper to collect gas station data.
     - Develop financial model (PE and DCF) to forecast stocks future target price. 
     
