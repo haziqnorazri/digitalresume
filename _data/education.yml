@@ -4,7 +4,7 @@
   qualification: BSc Physics (3.41 of 4.00)
   description: | # this will include new lines to allow paragraphs
     Thesis: Simulation of Massive Stars Processes
-    - Develop computational model with advance equa using Fortran.
+    - Develop computational model with advance equation using Fortran.
     - Build data pipelining using python for data analysis and visualisation.
 
   
