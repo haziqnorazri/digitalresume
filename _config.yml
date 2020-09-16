@@ -24,16 +24,16 @@ linkedin_username: israaibnusaifullah
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  UM Physicist with high mathematics proficiency, knowledgable in FinTech (Cryptocurrencies) & Stock Market, having employment record from small tech startup to investment banks, programmer with solid development portfolio
+  UM Physicist with high mathematics proficiency, knowledgable in FinTech (Cryptocurrencies) & Stock Market, have employment records from small tech startup to major investment banks, programmer with solid development portfolio
   encompassing automation scripting, web application and machine learning.
   
-  HIGHLIGHTS: 
-    - Python, Cython for Backend Scripting.
-    - Linux Server (Ubuntu, CentOS) Management for App Deployment.
-    - Full Stack Web Application via Flask Framework. 
+  Highlights: 
+    - Python, Cython for backend scripting.
+    - Linux Server (Ubuntu, CentOS) management for app deployment.
+    - Full stack web Application via flask, nginx & uwsgi. 
     - Mongo and Sql Database. 
-    - pureJS, Jquery, HTML and CSS for Frontend Design and UI Functionalities.
-    - Machine Learning via Python Keras and Scipy for development of LSTM and DQN Model.
+    - pureJS, Jquery, HTML and CSS for UI design and functionalities.
+    - Machine learning via Python Keras and Scipy for development of Neural Network (LSTMs).
    
 # More Section
 # more_title: A Little More About Me
