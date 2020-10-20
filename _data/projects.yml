@@ -9,16 +9,15 @@
     - Script built-in trading bots with multithreading support.
     - Develop client side web app using MVC structure with flask, nginx, uwsgi.
     - Mongo Database for client-server communication while sqlite for computation.
+    
 - layout: left
-  name: Algo Box
-  link: https://github.com/QuantMis/Algo-Box
+  name: Django-Vue To do App
   
   description: | # this will include new lines to allow paragraphs
-    Trading Automation   
-    - Develop Python based software to automate buying and selling of cryptocurrencies. 
-    - Deploy the software in Linux Server for production mode. 
-    - Implement statistic based strategy using z-score calculation of price change velocity.
-    - Rigorous back-testing and forward-testing to verify the strategy profitability.
+    Simple To-do App   
+    - Build the app using Django framework for backend and Vue framework for interface. 
+    - Develop Django API using python rest framework. 
+    - Implement dynamic styling which depends on data value.
     
 - layout: left
   name: Algo Box
