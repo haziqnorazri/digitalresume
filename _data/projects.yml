@@ -10,6 +10,15 @@
     - Develop client side web app using MVC structure with flask, nginx, uwsgi.
     - Mongo Database for client-server communication while sqlite for computation.
     
+ - layout: left
+  name: Django-Vue To do App
+    
+  description: | # this will include new lines to allow paragraphs
+    Simple To-do App
+    - Build the app using Django framework for backend and Vue framework for interface. 
+    - Develop Django API using python rest framework.
+    - Implement dynamic styling which depends on data value.
+    
 - layout: left
   name: Algo Box
   link: https://github.com/QuantMis/Algo-Box
@@ -21,14 +30,4 @@
     - Implement statistic based strategy using z-score calculation of price change velocity.
     - Rigorous back-testing and forward-testing to verify the strategy profitability.
     
-- layout: left
-  name: Neural Network Crypto
-  link: https://github.com/QuantMis/cryptoRNN
 
-    
-  description: | # this will include new lines to allow paragraphs
-    ML Model for Cryptocurrency Modelling
-    - Utilize Python Keras to develop LSTMs Models and Scipy for data preprocessing. 
-    - Forecast future prices for BTC and ETH using LSTMs Model.
-    - Automate data engineering processes such as data extraction, cleansing, shaping and visualisation.
-    - Visualise modelling process and results using plotly with live update features for production mode.
