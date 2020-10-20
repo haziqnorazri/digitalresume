@@ -10,15 +10,6 @@
     - Develop client side web app using MVC structure with flask, nginx, uwsgi.
     - Mongo Database for client-server communication while sqlite for computation.
     
- - layout: left
-   name: Django-Vue To do App
-    
-   description: | # this will include new lines to allow paragraphs
-     Simple To-do App
-     - Build the app using Django framework for backend and Vue framework for interface. 
-     - Develop Django API using python rest framework.
-     - Implement dynamic styling which depends on data value.
-    
 - layout: left
   name: Algo Box
   link: https://github.com/QuantMis/Algo-Box
