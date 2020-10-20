@@ -30,9 +30,9 @@ about_content: | # this will include new lines to allow paragraphs
   Highlights: 
     - Python, Cython for backend scripting.
     - Linux Server (Ubuntu, CentOS) management for app deployment.
-    - Full stack web Application using Django & flask framework, nginx & uwsgi. 
+    - Full stack web Application using Flask, Django & Vue framework. 
     - Mongo and Sql Database. 
-    - pureJS, Jquery, HTML and CSS for UI design and functionalities.
+    - JavaScript, Jquery, HTML and CSS for UI design and functionalities.
     - Machine learning via Python Keras and Scipy for development of Neural Network (LSTMs).
    
 # More Section
