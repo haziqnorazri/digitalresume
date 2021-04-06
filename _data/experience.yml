@@ -1,3 +1,14 @@
+ - layout: left
+  company: Pipeline Network Sdn Berhad
+  #link: boringcompany.com
+  job_title: Developer
+  dates: November 2020 - Current
+  description: | # this will include new lines to allow paragraphs
+    - Develop user-friendly, feature-rich client web application in a full development cycle.
+    - Coordinate closely with analyst, creative team, and product managers to ensure proper implementations of programs and system specifications.
+    - Utilized Django REST Framework to build APIs for both external and internal use with reduced time to ship. 
+    - Build customer-facing web interfaces and components using Angular.
+    
 - layout: left
   company: Rivex Market Making Project 
   #link: boringcompany.com
@@ -8,6 +19,7 @@
     - Build exchange interface to enable trading and data streaming function via API and Websockets.
     - Responsible to manage liquidiy provision bot for market making operation.
     - Involve in Initial Coin Offering (ICO) and develop strategies to maximise trading profit.  
+    
     
 - layout: left
   company: Kenanga Investment Bank Bhd
@@ -21,7 +33,7 @@
     - Analyse Malaysia Stocks Data and perform price-volume modelling.
     
 - layout: left
-  company: BIMB Securities Sdn Bhd
+  company: BIMB Investment Securities Sdn Bhd
   #link: boringcompany.com
   job_title: Research Intern
   dates: July 2019 - October 2019
