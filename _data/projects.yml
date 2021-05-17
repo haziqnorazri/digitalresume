@@ -12,7 +12,7 @@
     
 - layout: left
   name: Smart Home System
-  link: https://github.com/QuantMis/Algo-Box
+  #link: https://github.com/QuantMis/Algo-Box
   
   description: | # this will include new lines to allow paragraphs
     Sensors Smart Home using Arduino
