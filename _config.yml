@@ -3,37 +3,36 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Israa S.D
-title: Physicist | Programmer
-email: israasaifullah@gmail.com
-website: http://hibee.ml
+name: M. Haziq Norazri
+title: Physicist | Data Analyst
+email: haziq.norazri@gmail.com
+#website: http://hibee.ml
 
 # Social links
 # twitter_username: facespics
-github_username:  QuantMis
+github_username:  haziqnorazri
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: israaibnusaifullah
+linkedin_username: haziqnorazri
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/HaziqNorazri.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  UM Physicist with high mathematics proficiency, knowledgable in FinTech (Cryptocurrencies) & Stock Market, have employment records from small tech startup to major investment banks, programmer with solid development portfolio
-  encompassing automation scripting, web application and machine learning.
+  Conduct data mining, data modeling, statistical analysis, business intelligence gathering, trending and benchmarking. Data analytics supports decisions for high-priority, enterprise initiatives involving IT/product development, customer service improvement, organizational realignment and process reengineering.
   
   Highlights: 
-    - Python, Cython for backend scripting.
-    - Linux Server (Ubuntu, CentOS) management for app deployment.
-    - Full stack web Application using Flask, Django & Vue framework. 
-    - Mongo and Sql Database. 
-    - JavaScript, Jquery, HTML and CSS for UI design and functionalities.
-    - Machine learning via Python Keras and Scipy for development of Neural Network (LSTMs).
+    - Python Programming.
+    - SAS Entreprise Guide.
+    - Macros VBA Excel. 
+    - Big Data Analytics. 
+    - TECPLOT360 Visualisation Software.
+    - Monte Carlo N-Particle Simulation (MCNP).
    
 # More Section
 # more_title: A Little More About Me
