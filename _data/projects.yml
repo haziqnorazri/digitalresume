@@ -1,25 +1,22 @@
 - layout: left
-  name: Hibee
-  link: http://hibee.ml
+  name: Big Data Analytics
+  #link: http://soontobeadded
   
   description: | # this will include new lines to allow paragraphs
-    Lite Web Application for Market Making Operation
-    - Build Binance Futures API connector to enable trading functionality. 
-    - Develop fast websocket streamer to view realtime market data.
-    - Script built-in trading bots with multithreading support.
-    - Develop client side web app using MVC structure with flask, nginx, uwsgi.
-    - Mongo Database for client-server communication while sqlite for computation.
+    Big Data Radiation Forecasting using Monte Carlo Method.
+    - Develop geometrical structure of dosimeter and water phantom. 
+    - Develop a specific condition of the project and the material of the dosimeter.
+    - 2D-3D visualisation of big data obtained from MC method by using Tecplot360.
+    - Contribute to a new discoveries of new dosimeter studies in Medical Physics.
     
     
 - layout: left
-  name: Algo Box
+  name: Smart Home System
   link: https://github.com/QuantMis/Algo-Box
   
   description: | # this will include new lines to allow paragraphs
-    Trading Automation   
-    - Develop Python based software to automate buying and selling of cryptocurrencies. 
-    - Deploy the software in Linux Server for production mode. 
-    - Implement statistic based strategy using z-score calculation of price change velocity.
-    - Rigorous back-testing and forward-testing to verify the strategy profitability.
-    
+    Sensors Smart Home using Arduino
+    - Develop a home automation system using arduino software. 
+    - Develop C++ applications for Montion Sensor, Light sensor and Infrared Temperature Sensor. 
+    - Develop skills to design and implement various smart system application.
 
