@@ -1,45 +1,33 @@
 - layout: left
-  company: Pipeline Network Sdn Berhad
+  company: CIMB Bank Bhd
   #link: boringcompany.com
-  job_title: Developer
-  dates: November 2020 - Current
+  job_title:  Management Information System Officer
+  dates: Apr 2020 - Current
   description: | # this will include new lines to allow paragraphs
-    - Develop user-friendly, feature-rich client web application in a full development cycle.
-    - Coordinate closely with analyst, creative team, and product managers to ensure proper implementations of programs and system specifications.
-    - Utilized Django REST Framework to build APIs for both external and internal use with reduced time to ship. 
-    - Build customer-facing web interfaces and components using Angular.
-    
-- layout: left
-  company: Rivex Market Making Project 
-  #link: boringcompany.com
-  job_title: Python Developer and QA (remote)
-  dates: March 2020 - August 2020
-  description: | # this will include new lines to allow paragraphs
-    - Develop low latency trading algorithms using python & cython.
-    - Build exchange interface to enable trading and data streaming function via API and Websockets.
-    - Responsible to manage liquidiy provision bot for market making operation.
-    - Involve in Initial Coin Offering (ICO) and develop strategies to maximise trading profit.  
+    - Provide supportive Collection MIS for the portfolio managed by Collection Teams.
+    - Review MIS reports such as Individual Performance Reports, Net Flows, and Productivity Reports to measure success of units and implement robust collection strategies based on MIS.
+    - Ensured timely and accurate submission in providing reports to to Unit Heads, HOD, and Region Head.
+    - Extracted data from the server and provide analysis using SAS on delinquency trend and monthly collection or portfolio performance to respective functional head as to ensure action plan or control for  any possible improvisation.
+    - Performed and controlled the performance, delinquency rates and credit losses.
     
     
 - layout: left
-  company: Kenanga Investment Bank Bhd
+  company: CIMB Bank Bhd
   #link: boringcompany.com
-  job_title: Quant Trainee
-  dates: Jan 2020 - May 2020
+  job_title: PROTÉGÉ Trainee
+  dates: Augt 2020 - Apr 2021
   description: | # this will include new lines to allow paragraphs
-    - Work side to side with Kenanga top traders.
-    - Assist daytraders with technical analysis and daily trading plan.
-    - Involve in Alpha Mining by doing strategy development and rigorous backtesting.  
-    - Analyse Malaysia Stocks Data and perform price-volume modelling.
+    - Monitor, maintain and improve position as well as to improve loan impairment and to prevent deterioration of accounts.
+    - Work and perform dunning to all delinquent customer.
+    - Carried out all the recoveries functions as per the assigned account as set by the management.
+    - Ensured compliance with systems, controls and guidelines of the Bank.
     
 - layout: left
-  company: BIMB Investment Securities Sdn Bhd
+  company: LYNAS Malaysia Sdn. Bhd.
   #link: boringcompany.com
-  job_title: Research Intern
+  job_title: Internhip (Radiation Supervisor Officer)
   dates: July 2019 - October 2019
   description: | # this will include new lines to allow paragraphs
-    - Involve in completion of MTAG IPO report.
-    - Develop various web scraper for data collection.    
-    - Develop a python script for Google Map scraper to collect gas station data.
-    - Develop financial model (PE and DCF) to forecast stocks future target price. 
-    
+    - Involve in handling variety of intrument related to radiation.
+    - Susbmission report of monitoring in-site LYNAS.    
+    - Ensure all the radiation worker comply all the regulation assigned by regulator guideline AELB. 
