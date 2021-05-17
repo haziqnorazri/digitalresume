@@ -1,10 +1,10 @@
 - layout: left
   name: University Malaya
-  dates:  August 2016 - January 2020
-  qualification: BSc Physics (3.41 of 4.00)
+  dates:  August 2016 - October 2020
+  qualification: BSc Physics (3.46 of 4.00)
   description: | # this will include new lines to allow paragraphs
-    Thesis: Simulation of Massive Stars Processes
-    - Develop computational model with advance equation using Fortran.
-    - Build data pipelining using python for data analysis and visualisation.
+    Thesis: Evaluation of Pertubation Effects of Dosimeter in Small Field Dosimeter Using Monte Carlo Simulation
+    - Develop computational and geometry model with advance equation using Monte Carlo (MC) method.
+    - Import the raw data using python for data analysis and visualisation.
 
   
