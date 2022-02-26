@@ -1,9 +1,17 @@
 - layout: left
+  name: Reschedule and Restructure (RNR) Program
+  description: | # this will include new lines to allow paragraphs
+    Registration Form using VBA Script in Microsoft Excel
+    - Build VBA script to perform data entry using MS Excel.
+    - Develop various of function to the VBA Script such as Save, Delete, Search, and Register function.
+    - Develop one-click tools to print out all the consolidate data in the database worksheet.
+
+- layout: left
   name: Automation VBA for Payment Assistance Program (PAP) CIMB
   #link: http://soontobeadded
   
   description: | # this will include new lines to allow paragraphs
-  Automation within Microsoft Excel, Words and Outlook using VBA Script.
+    Automation within Microsoft Excel, Words and Outlook using VBA Script.
     - Build VB prototypes and small scale applications, along with VBA scripts, to automate Excel spreadsheets and produce reports. 
     - Develop and implement new VBA Script to increase the efficiency of this project workflow, and ensure that their configuration is properly handled.
     - Develop, maintain, and support existing MS Excel VBA applications.
