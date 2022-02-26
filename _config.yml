@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: M. Haziq Norazri
-title: Physicist | Data Analyst
+title: Physicist | MIS Analyst
 email: haziq.norazri@gmail.com
 #website: http://hibee.ml
 
@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   Highlights: 
     - Python Programming.
-    - SAS Entreprise Guide.
+    - SAS Macro SQL.
     - Macros VBA Excel. 
     - Big Data Analytics. 
     - TECPLOT360 Visualisation Software.
