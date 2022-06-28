@@ -1,4 +1,11 @@
 - layout: left
+  name: Automated and Sceduling Reports Programm
+  description: | # this will include new lines to allow paragraphs
+    Automation in producing reports using Scheduler
+    - Build up the framework for automation for VBA and SAS program using Batch program.
+    - Ensure the report
+
+-layout: left
   name: Reschedule and Restructure (RNR) Program
   description: | # this will include new lines to allow paragraphs
     Registration Form using VBA Script in Microsoft Excel
