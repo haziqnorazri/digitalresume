@@ -2,8 +2,8 @@
   name: Automated and Sceduling Reports Programm
   description: | # this will include new lines to allow paragraphs
     Automation in producing reports using Scheduler
-    - Build up the framework for automation for VBA and SAS program using Batch program.
-    - Ensure the report
+    - Build up the framework for automation for VBA, VBS and SAS program using Batch program.
+    - Ensure the report generated without an error at a specific timeframe.
 
 -layout: left
   name: Reschedule and Restructure (RNR) Program
