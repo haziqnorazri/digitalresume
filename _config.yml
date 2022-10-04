@@ -28,8 +28,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Highlights: 
     - Python Programming.
-    - SAS Macro SQL.
-    - Macros VBA Excel. 
+    - SAS/Macro, SAS/SQL, SAS/GRAPH, SASEG.
+    - VBA, VBS and Excel. 
     - Big Data Analytics. 
     - TECPLOT360 Visualisation Software.
     - Monte Carlo N-Particle Simulation (MCNP).
