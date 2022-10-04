@@ -4,11 +4,11 @@
   job_title:  Management Information System Officer
   dates: Apr 2021 - Current
   description: | # this will include new lines to allow paragraphs
-    - Provide supportive Collection MIS for the portfolio managed by Collection Teams.
-    - Review MIS reports such as Individual Performance Reports, Net Flows, and Productivity Reports to measure success of units and implement robust collection strategies based on MIS.
-    - Ensured timely and accurate submission in providing reports to to Unit Heads, HOD, and Region Head.
-    - Extracted data from the server and provide analysis using SAS on delinquency trend and monthly collection or portfolio performance to respective functional head as to ensure action plan or control for  any possible improvisation.
-    - Performed and controlled the performance, delinquency rates and credit losses.
+    - Provide supportive Collection MIS for the portfolio managed by Collection Teams by creating and modifying customer lists based on different parameters such as address, instalment amount and loan amount.
+    - Review and analyze MIS reports such as Individual Performance Reports, Net Flows, and Productivity Reports to measure success of units and implement robust collection strategies based on MIS.
+    - Use of VBA/VBS and Batch File Programming to automate reports for ensured timely and accurate submission in providing reports to Unit Heads, HOD, and Region Head.
+    - Extracted data from the server and provide analysis using SAS/BASE, SAS/MACRO, SAS/SQL and SAS/GRAPH on delinquency trend and monthly collection or portfolio performance to respective functional head as to ensure action plan or control for any possible improvisation.
+    - Mainly use SAS Eg (Enterprise Guide) to optimize data collection procedures and generate daily, weekly, monthly and quarterly basis for the respective team.
     
 - layout: left
   company: CIMB Bank Bhd
