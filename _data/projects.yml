@@ -7,7 +7,7 @@
     - Develop a specific SAS Script using SASEG to run multiple SAS Programme simultaneously.
     - Make use of VBS Script to extract data from the server using the popular SFTP Client WinScp.
 
--layout: left
+- layout: left
   name: Reschedule and Restructure (RNR) Program
   description: | # this will include new lines to allow paragraphs
     Registration Form using VBA Script in Microsoft Excel
