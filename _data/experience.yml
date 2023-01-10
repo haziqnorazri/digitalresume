@@ -1,9 +1,10 @@
 - layout: left
   company: CIMB Bank Bhd
-  #link: boringcompany.com
+  link: https://www.cimb.com/
   job_title:  Management Information System Officer
   dates: Apr 2021 - Current
   description: | # this will include new lines to allow paragraphs
+    - Developing, maintaining and managing advanced analystical reports using Tableau Dashboard.
     - Provide supportive Collection MIS for the portfolio managed by Collection Teams by creating and modifying customer lists based on different parameters such as address, instalment amount and loan amount.
     - Review and analyze MIS reports such as Individual Performance Reports, Net Flows, and Productivity Reports to measure success of units and implement robust collection strategies based on MIS.
     - Use of VBA/VBS and Batch File Programming to automate reports for ensured timely and accurate submission in providing reports to Unit Heads, HOD, and Region Head.
@@ -12,7 +13,7 @@
     
 - layout: left
   company: CIMB Bank Bhd
-  #link: boringcompany.com
+  link: https://www.cimb.com/
   job_title: PROTÉGÉ Trainee
   dates: Augt 2020 - Apr 2021
   description: | # this will include new lines to allow paragraphs
@@ -23,10 +24,12 @@
     
 - layout: left
   company: LYNAS Malaysia Sdn. Bhd.
-  #link: boringcompany.com
+  link: https://lynasrareearths.com/
   job_title: Internship (Radiation Supervisor Officer)
   dates: July 2019 - October 2019
   description: | # this will include new lines to allow paragraphs
-    - Involve in handling variety of intrument related to radiation.
-    - Susbmission report of monitoring in-site LYNAS.    
-    - Ensure all the radiation worker comply all the regulation assigned by regulator guideline AELB. 
+    - Oversees daily operations of the organisational unit while ensuring compliance with all applicable industry standards and AELB regulations.
+    - Prepares reports for daily radiation monitoring on-site to guarantee a secure working environment.
+    - Ensures frequent examinations and inspections of radioactive material storage sites, as well as the monitoring of radiation levels and contamination of working surfaces.   
+    - Manages the radiation safety training program to ensure that only authorized, qualified individuals work with radiation.
+    - May propose and create new programs in the area of radiation safety including research of regulations, process development, development of SOPs and implementation.
