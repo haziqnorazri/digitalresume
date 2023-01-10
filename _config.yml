@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: M. Haziq Norazri
 title: Physicist | MIS Analyst
 email: haziq.norazri@gmail.com
-#website: http://hibee.ml
+website: https://www.linkedin.com/in/haziqnorazri
 
 # Social links
 # twitter_username: facespics
@@ -24,14 +24,14 @@ linkedin_username: haziqnorazri
 # about_title: About Me
 about_profile_image: images/HaziqNorazri.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Conduct data modeling, statistical analysis, benchmarking and forecasting. Data analytics supports decisions for high-priority, customer service improvement and organizational realignment.
+  Conduct data modeling, Advanced statistical analysis, benchmarking and forecasting. Data analytics supports decisions for high-priority, customer service improvement and organizational realignment.
   
   Highlights: 
     - Python Programming.
     - SAS/Macro, SAS/SQL, SAS/GRAPH, SASEG.
+    - Tableau Data Visualization.
     - VBA, VBS and Excel. 
     - Big Data Analytics. 
-    - TECPLOT360 Visualisation Software.
     - Monte Carlo N-Particle Simulation (MCNP).
    
 # More Section
